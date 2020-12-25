@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Roll Dice</string>
+    <string name="button_text">Click to Roll</string>
+    <string name="main_logo">Main Logo</string>
+    <string name="first_dice">First Dice</string>
+    <string name="second_dice">Second Dice</string>
+    <string name="roll_button">Roll Button</string>
+
+</resources>
